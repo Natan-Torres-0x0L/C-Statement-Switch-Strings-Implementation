@@ -1,1 +1,1 @@
-# C-statement-switch-strings-implementation
+# C-Statement-Switch-Strings-Implementation
